@@ -1,1 +1,0 @@
-20ad692a0b672fdf5d78e2448db85c8b2689cb19105e57b6f55859d3fcf27b7a  scoutsuite-windows-offline-packages.zip
